@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards.iml" group="Flashcards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" group="Flashcards/Flashcards-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers.iml" group="Flashcards/Problems-Check_if_an_array_contains_two_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_main.iml" group="Flashcards/Problems-Check_if_an_array_contains_two_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_test.iml" group="Flashcards/Problems-Check_if_an_array_contains_two_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" group="Flashcards/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" group="Flashcards/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" group="Flashcards/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array.iml" group="Flashcards/Problems-The_minimum_value_of_an_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array_main.iml" group="Flashcards/Problems-The_minimum_value_of_an_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The minimum value of an array/Problems-The_minimum_value_of_an_array_test.iml" group="Flashcards/Problems-The_minimum_value_of_an_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Flashcards/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Flashcards/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Flashcards/util" />
+    </modules>
+  </component>
+</project>
