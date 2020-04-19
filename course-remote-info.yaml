@@ -2,6 +2,7 @@ hyperskill_project:
   id: 44
   ide_files: https://stepik.org/media/attachments/lesson/208224/additional_files.json
   is_template_based: false
+  use_ide: true
 stages:
 - id: 232
   step: 5343
