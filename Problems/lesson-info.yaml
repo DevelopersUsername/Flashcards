@@ -41,3 +41,8 @@ content:
 - Mutable geometric shapes
 - Account Service
 - Compact strings with AsciiCharSequence
+- Avoid division by zero
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting

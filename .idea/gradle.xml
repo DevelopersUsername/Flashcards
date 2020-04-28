@@ -15,6 +15,8 @@
             <option value="$PROJECT_DIR$/Problems/Account Service" />
             <option value="$PROJECT_DIR$/Problems/Account and its owner" />
             <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Problems/Avoid division by zero" />
             <option value="$PROJECT_DIR$/Problems/Binary search" />
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Books" />
@@ -39,12 +41,15 @@
             <option value="$PROJECT_DIR$/Problems/Inner boxes" />
             <option value="$PROJECT_DIR$/Problems/Movie" />
             <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Problems/Only true or false" />
             <option value="$PROJECT_DIR$/Problems/Phone" />
             <option value="$PROJECT_DIR$/Problems/Preparing full name" />
             <option value="$PROJECT_DIR$/Problems/Print" />
             <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
             <option value="$PROJECT_DIR$/Problems/Publication and its subclasses" />
             <option value="$PROJECT_DIR$/Problems/Publications" />
+            <option value="$PROJECT_DIR$/Problems/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems/Safe converting" />
             <option value="$PROJECT_DIR$/Problems/Saying animals" />
             <option value="$PROJECT_DIR$/Problems/Shapes area" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
