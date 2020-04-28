@@ -46,3 +46,4 @@ content:
 - Avoid NPE
 - Only true or false
 - Safe converting
+- Check the value
