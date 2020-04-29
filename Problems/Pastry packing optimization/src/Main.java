@@ -69,5 +69,6 @@ class Box<T> {
 
     public void put(T box) {
         this.box = box;
+
     }
 }
