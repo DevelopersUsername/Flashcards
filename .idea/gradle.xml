@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
             <option value="$PROJECT_DIR$/Problems/Account Service" />
             <option value="$PROJECT_DIR$/Problems/Account and its owner" />
             <option value="$PROJECT_DIR$/Problems/Army" />
@@ -32,7 +33,9 @@
             <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Creating a set" />
             <option value="$PROJECT_DIR$/Problems/Difference of times" />
+            <option value="$PROJECT_DIR$/Problems/Displaying pairs" />
             <option value="$PROJECT_DIR$/Problems/Employee" />
             <option value="$PROJECT_DIR$/Problems/Employees" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
@@ -45,8 +48,10 @@
             <option value="$PROJECT_DIR$/Problems/Individual taxes" />
             <option value="$PROJECT_DIR$/Problems/Inner boxes" />
             <option value="$PROJECT_DIR$/Problems/Movie" />
+            <option value="$PROJECT_DIR$/Problems/Multiset" />
             <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
             <option value="$PROJECT_DIR$/Problems/Only true or false" />
+            <option value="$PROJECT_DIR$/Problems/Output elements" />
             <option value="$PROJECT_DIR$/Problems/Pastry packing optimization" />
             <option value="$PROJECT_DIR$/Problems/Phone" />
             <option value="$PROJECT_DIR$/Problems/Preparing full name" />
@@ -58,7 +63,9 @@
             <option value="$PROJECT_DIR$/Problems/Safe converting" />
             <option value="$PROJECT_DIR$/Problems/Saying animals" />
             <option value="$PROJECT_DIR$/Problems/Shapes area" />
+            <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and the mystery of anagrams" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Problems/Spell checker" />
             <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
             <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Problems/Too many cats" />
