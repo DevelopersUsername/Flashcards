@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/Problems/Books" />
             <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
             <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
             <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
@@ -33,6 +34,7 @@
             <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Convert to bytes" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Count words" />
             <option value="$PROJECT_DIR$/Problems/Counter" />
             <option value="$PROJECT_DIR$/Problems/Creating a set" />
@@ -70,6 +72,8 @@
             <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and the mystery of anagrams" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/Problems/Spell checker" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems/The length of the sequence" />
             <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
             <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Problems/Too many cats" />

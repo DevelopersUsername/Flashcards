@@ -15,8 +15,9 @@ class Main {
             }
 
             for (String word : line.toString().split(" ")) {
-                if (!word.isEmpty())
+                if (!word.isEmpty()) {
                     count++;
+                }
             }
             System.out.println(count);
         }
