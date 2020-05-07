@@ -44,7 +44,7 @@ class OutputLine(val checker: (text: String, ctx: Context) -> CheckResult) : Phr
  * we need to pass all inputs first, and then start checking outputs. */
 fun user(text: String, updateContext: (ctx: Context) -> Unit = {}) = UserLine(text, updateContext)
 
-fun anyLine() = OutputLine { _, _ -> CheckResult.correct(); }
+fun anyLine(updateContext: CtxUpdate = {}) = OutputLine { _, ctx -> CheckResult.correct().also { updateContext(ctx) } }
 
 fun containing(
         vararg parts: String,
@@ -88,8 +88,7 @@ class DialogClue(private val phrases: List<PhraseLine>) {
         val lines = output.lines()
                 .filter { it.isNotBlank() }
 
-        fun wrongOutputSizeFeedback(): CheckResult
-                = CheckResult.wrong("The number of lines in your output is ${lines.size}, " +
+        fun wrongOutputSizeFeedback() = CheckResult.wrong("The number of lines in your output is ${lines.size}, " +
                 "but it should be ${outputPhrases.size}. " +
                 "Check, that you output your lines with println, not print. And there are no extra outputs.")
 
@@ -116,13 +115,14 @@ class DialogClue(private val phrases: List<PhraseLine>) {
             return wrongOutputSizeFeedback()
         }
 
-        return CheckResult.correct()
+        return CheckResult.correct();
     }
 }
 
-fun dialogTest(vararg phrases: Phrase): TestCase<DialogClue> {
+fun dialogTest(vararg phrases: Phrase, consoleArgs: Array<String> = emptyArray()): TestCase<DialogClue> {
     val dialogClue = DialogClue(phrases.flatMap { it.toPhraseLines() })
     return TestCase<DialogClue>()
             .setInput(dialogClue.generateInput())
             .setAttach(dialogClue)
+            .addArguments(*consoleArgs)
 }
